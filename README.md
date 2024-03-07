@@ -1,5 +1,3 @@
-# kispythonDZ
-Задания с kispython
 №1
 ![image](https://github.com/depresso-m/kispythonDZ/assets/146992080/d085ad1e-6ffd-4f27-9d8b-75f3f0e79092)
 №2
