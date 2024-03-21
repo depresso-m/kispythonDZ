@@ -4,3 +4,4 @@
 ![image](https://github.com/depresso-m/kispythonDZ/assets/146992080/2192917c-bee6-4072-8b6b-200eddbc63a9)
 ![image](https://github.com/depresso-m/kispythonDZ/assets/146992080/d0197459-f520-4b55-b4c7-37cb4a8e6bb0)
 ![image](https://github.com/depresso-m/kispythonDZ/assets/146992080/0cd85c20-be0d-4d8e-a2ee-04606459e6ce)
+![image](https://github.com/depresso-m/kispythonDZ/assets/146992080/ec321916-a12d-41ee-8116-9ac5bc6fc8c0)
